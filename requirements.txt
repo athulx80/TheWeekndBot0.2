@@ -34,5 +34,3 @@ wheel
 ujson
 wget
 pytz
-
-
