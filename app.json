@@ -5,7 +5,7 @@
     "stack": "container",
     "keywords": ["telegram", "auto-filter"],
     "website": "https://github.com/athulx80",
-    "repository": "https://github.com/athulx80/THE_WEEKND_BOT",
+    "repository": "https://github.com/athulx80/TheWeekndBot0.2",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
